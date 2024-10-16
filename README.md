@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mabinuv</h1>
+<h1 align="center">Hi 👋, I'm Mabin Varghese</h1>
 <h3 align="center">AI - Machine learning Engineer | AI Enthusiast | Network Engineer</h3>
 <img align="right" alt="Coding" width="300" src= https://media.licdn.com/dms/image/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=dI3YRRvNXNRsOr5mXYNrEuuRsKc_uK-x_riS6ELn7Sk>
 
