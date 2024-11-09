@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I’m Mabin Varghese
 
-Welcome to my profile! I’m an AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering, anomaly detection, and MLOps practices.
+Welcome to my profile! I’m an AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering, anomaly detection.
 
 ### 🔭 Current Projects
 
