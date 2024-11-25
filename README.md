@@ -11,8 +11,8 @@ I’m a pursuing AI/Machine Learning Engineer with a passion for solving real-wo
 
 Expanding my skillset in:
 
-	•	Advanced Deep Neural Frameworks: Exploring and implementing DNN architectures to solve complex machine learning problems.
-	•	LLM Applications with RAG: Utilizing Retrieval-Augmented Generation (RAG) techniques to enhance language model capabilities for real-world applications, including translation and transcription systems.
+- Advanced Deep Neural Frameworks: Exploring and implementing DNN architectures to solve complex machine learning problems.
+- LLM Applications with RAG: Utilizing Retrieval-Augmented Generation (RAG) techniques to enhance language model capabilities for real-world applications, including translation and transcription systems.
 
 
 # 💻 Tech Stack:
