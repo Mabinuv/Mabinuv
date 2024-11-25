@@ -18,23 +18,19 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I’m Mabin Varghese
 
-Welcome to my profile! I’m an AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering, anomaly detection.
-
+I’m a pursuing AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering.
 ### 🔭 Current Projects
 
 - Network Intrusion Detection System: Leveraging deep learning for real-time anomaly detection and security monitoring. I’m currently preparing to publish my findings in a reputable journal.
 -Generative AI Models: Working on conditional GANs for image generation and segmentation, optimizing feature engineering for improved model performance.
+-Working on implementing of LLM model for a consulting company to host an LLM-powered chatbot for clients.
 
 ### 🌱 Always Learning
 
 I’m continuously expanding my skillset in:
 
-- Advanced ML Frameworks: Proficient in PyTorch and TensorFlow, and enhancing my knowledge of model optimization techniques.
-
-
-📫 How to Reach Me
-
-- Email: mabinuv@gmail.com
+- Advanced Deep neural Frameworks
+- LLM model utilising RAG and translate and transcibe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mabin-varghese-nw-ai) 
@@ -46,4 +42,4 @@ I’m continuously expanding my skillset in:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mabinuv&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabinuv&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+***<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
