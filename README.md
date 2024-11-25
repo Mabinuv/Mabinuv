@@ -3,16 +3,16 @@
 I’m a pursuing AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering.
 ### 🔭 Current Projects
 
--Network Intrusion Detection System: Developing a cutting-edge solution utilizing deep learning for real-time anomaly detection and proactive security monitoring. Preparing to publish research findings in a leading academic journal.
--Generative AI Models: Designing and fine-tuning conditional GANs for advanced image generation and segmentation, focusing on optimizing feature engineering to boost model performance.
--LLM-Powered Chatbot for Consulting: Implementing a Large Language Model (LLM) for a consulting firm to create an intelligent chatbot that enhances client interaction and service delivery.
+- Network Intrusion Detection System: Developing a cutting-edge solution utilizing deep learning for real-time anomaly detection and proactive security monitoring. Preparing to publish research findings in a leading academic journal.
+- Generative AI Models: Designing and fine-tuning conditional GANs for advanced image generation and segmentation, focusing on optimizing feature engineering to boost model performance.
+- LLM-Powered Chatbot for Consulting: Implementing a Large Language Model (LLM) for a consulting firm to create an intelligent chatbot that enhances client interaction and service delivery.
 
 ### 🌱 Always Learning
 
-I’m continuously expanding my skillset in:
+Expanding my skillset in:
 
-- Advanced Deep neural Frameworks
-- LLM model utilising RAG and translate and transcribe
+	•	Advanced Deep Neural Frameworks: Exploring and implementing DNN architectures to solve complex machine learning problems.
+	•	LLM Applications with RAG: Utilizing Retrieval-Augmented Generation (RAG) techniques to enhance language model capabilities for real-world applications, including translation and transcription systems.
 
 
 # 💻 Tech Stack:
