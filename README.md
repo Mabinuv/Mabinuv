@@ -1,18 +1,22 @@
 ## Hi there 👋 I’m Mabin Varghese
 
-I’m a pursuing AI/Machine Learning Engineer with a passion for solving real-world problems through the power of data and advanced machine learning techniques. My experience ranges from developing deep learning models to deploying machine learning solutions, with a keen interest in data analysis, feature engineering.
+I am an AI/Machine Learning Engineer with a strong drive to solve real-world problems through data-driven insights and advanced machine learning methodologies. My work spans implementing deep learning models and exploring the deployment of scalable ML solutions, with a focus on data analysis, feature engineering, and delivering impactful results.
+
+While I’m still honing my expertise, I am deeply committed to advancing my specialization in deep neural networks. I actively engage in side projects to deepen my understanding of neural network architectures and their practical applications. Currently, I am delving into Large Language Models (LLMs), self-studying their theoretical foundations, and building chatbot systems from scratch using Retrieval-Augmented Generation (RAG) techniques, alongside utilizing advanced pre-trained models from Hugging Face.
+
+My ultimate objective is to acquire hands-on proficiency in leveraging AI to design and implement innovative solutions that drive business productivity and tackle complex challenges effectively.
 ### 🔭 Current Projects
 
-- Network Intrusion Detection System: Developing a cutting-edge solution utilizing deep learning for real-time anomaly detection and proactive security monitoring. Preparing to publish research findings in a leading academic journal.
-- Generative AI Models: Designing and fine-tuning conditional GANs for advanced image generation and segmentation, focusing on optimizing feature engineering to boost model performance.
-- LLM-Powered Chatbot for Consulting: Implementing a Large Language Model (LLM) for a consulting firm to create an intelligent chatbot that enhances client interaction and service delivery.
+- **Network Intrusion Detection System**: Developing a cutting-edge solution utilizing deep learning for real-time anomaly detection and proactive security monitoring. Preparing to publish research findings in a leading academic journal.
+- **Generative AI Models**: Designing and fine-tuning conditional GANs for advanced image generation and segmentation, focusing on optimizing feature engineering to boost model performance.
+- **LLM-Powered Chatbot for Consulting**: Implementing a Large Language Model (LLM) for a consulting firm to create an intelligent chatbot that enhances client interaction and service delivery.
 
 ### 🌱 Always Learning
 
 Expanding my skillset in:
 
-- Advanced Deep Neural Frameworks: Exploring and implementing DNN architectures to solve complex machine learning problems.
-- LLM Applications with RAG: Utilizing Retrieval-Augmented Generation (RAG) techniques to enhance language model capabilities for real-world applications, including translation and transcription systems.
+- **Advanced Deep Neural Frameworks**: Exploring and implementing DNN architectures to solve complex machine learning problems.
+- **LLM Applications with RAG**: Utilizing Retrieval-Augmented Generation (RAG) techniques to enhance language model capabilities for real-world applications, including translation and transcription systems.
 
 
 # 💻 Tech Stack:
